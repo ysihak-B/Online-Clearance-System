@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SoftwareApplication<software>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.software.project.SoftwareApplication",
+            "projectName": "software",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RegistrarApplication<registrar>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "software.registrar.RegistrarApplication",
+            "projectName": "registrar",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LibraryApplication<library>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "software.library.LibraryApplication",
+            "projectName": "library",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DormitoryApplication<dormitory>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "software.dormitory.DormitoryApplication",
+            "projectName": "dormitory",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CafeteriaApplication<cafeteria>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "software.cafeteria.CafeteriaApplication",
+            "projectName": "cafeteria",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SportApplication<sport>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "software.sport.SportApplication",
+            "projectName": "sport",
+            "args": ""
+        }
+    ]
+}
